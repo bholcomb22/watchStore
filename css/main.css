@@ -1,0 +1,89 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+body {
+	text-align: center;
+	
+}
+
+.banner {
+	height: 500px;
+	background-image: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	max-height: 500px; 
+}
+
+
+.top {
+	background-color:  #233237;
+	height: 150px;
+	font-family: 'Nanum Gothic', sans-serif;
+	color: #944843;
+}
+
+.prods {
+	font-family: 'Great Vibes', cursive;
+	font-size: 60px;
+
+}
+
+.site {
+	padding-top: 4%;
+}
+
+.cons {
+	/*height: 350px;*/
+	
+	margin-top: 50px;
+}
+
+#woo {
+	/*height: 50%;
+	width: 100%;*/
+}
+
+#butt {
+	width: 70px;
+	height: 35px;
+}
+
+#hello {
+	/*background-color: #cf6766;*/
+}
+h4 {
+	font-family: 'News Cycle', sans-serif;
+	margin-bottom: 10%;
+
+}
+
+.locate {
+	background-image: url(../img/store.jpg);
+	background-position: 40%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	background-attachment: fixed;
+
+
+}
+
+.fill {
+	background-color: rgba(0,0,0,.5);
+	height: 100%;
+}
+
+.here:hover {
+	border: 1px solid white;
+	color: white;
+	text-decoration: none;
+}
+
+.play {
+	text-decoration: none;
+	color: white;
+}
+
+.end {
+	height: 100px;
+}
